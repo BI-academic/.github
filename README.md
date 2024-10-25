@@ -1,0 +1,2 @@
+# .github
+Rules for everyone
